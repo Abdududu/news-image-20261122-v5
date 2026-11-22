@@ -1,0 +1,1 @@
+{"description":"The World in One Day — Sunday 22 November 2026. 35 stories, 7 regions, one illustrated image. make.fun bounty entry.","devDependencies":{"playwright-core":"^1.65.1"},"license":"MIT","main":"main.ts","name":"news-image-20261122-v5","scripts":{"render":"node scripts/render.mjs","start":"node main.ts"},"type":"module","version":"1.0.0"}
